@@ -28,9 +28,9 @@ See [homepage](https://hookless.machinezoo.com/time).
 ## Documentation
 
 * [Homepage](https://hookless.machinezoo.com/time)
-* [Javadoc](https://hookless.machinezoo.com/javadocs/time/com.machinezoo.hookless/module-summary.html)
+* [Javadoc](https://hookless.machinezoo.com/javadocs/time/com.machinezoo.hookless.time/com/machinezoo/hookless/time/package-summary.html)
 
-Some APIs are undocumented. You might have to peek in the [source code](src/main/java/com/machinezoo/hookless).
+Some APIs are undocumented. You might have to peek in the [source code](src/main/java/com/machinezoo/hookless/time).
 
 ## Feedback
 
