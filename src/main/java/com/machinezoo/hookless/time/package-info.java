@@ -1,4 +1,4 @@
-// Part of Hookless: https://hookless.machinezoo.com
+// Part of Reactive time for Hookless: https://hookless.machinezoo.com/time
 /**
  * Reactive versions of classes from {@link java.time}.
  * 

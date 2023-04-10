@@ -1,4 +1,4 @@
-// Part of Hookless: https://hookless.machinezoo.com
+// Part of Reactive time for Hookless: https://hookless.machinezoo.com/time
 package com.machinezoo.hookless.time;
 
 import java.time.*;
