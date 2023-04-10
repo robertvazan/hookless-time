@@ -5,7 +5,7 @@
 
 	<groupId>com.machinezoo.hookless</groupId>
 	<artifactId>hookless-time</artifactId>
-	<version>0.0.1</version>
+	<version>0.1.0</version>
 
 	<name>Reactive time for Hookless</name>
 	<description>Hookless reactive adapter for time classes from java.time package.</description>
