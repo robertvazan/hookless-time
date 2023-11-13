@@ -3,11 +3,11 @@
 
 # Reactive time for Hookless
 
-[![Maven Central](https://img.shields.io/maven-central/v/com.machinezoo.hookless/hookless-time)](https://search.maven.org/artifact/com.machinezoo.hookless/hookless-time)
+[![Maven Central](https://img.shields.io/maven-central/v/com.machinezoo.hookless/hookless-time)](https://central.sonatype.com/artifact/com.machinezoo.hookless/hookless-time)
 [![Build status](https://github.com/robertvazan/hookless-time/workflows/build/badge.svg)](https://github.com/robertvazan/hookless-time/actions/workflows/build.yml)
 [![Test coverage](https://codecov.io/gh/robertvazan/hookless-time/branch/master/graph/badge.svg)](https://codecov.io/gh/robertvazan/hookless-time)
 
-Reactive time as implemented in classes [`ReactiveInstant`](https://hookless.machinezoo.com/javadocs/core/com.machinezoo.hookless/com/machinezoo/hookless/time/ReactiveInstant.html) and [`ReactiveDuration`](https://hookless.machinezoo.com/javadocs/core/com.machinezoo.hookless/com/machinezoo/hookless/time/ReactiveDuration.html)
+Reactive time as implemented in classes [`ReactiveInstant`](https://hookless.machinezoo.com/javadocs/time/com.machinezoo.hookless.time/com/machinezoo/hookless/time/ReactiveInstant.html) and [`ReactiveDuration`](https://hookless.machinezoo.com/javadocs/time/com.machinezoo.hookless.time/com/machinezoo/hookless/time/ReactiveDuration.html)
 is a [reactive adapter](https://hookless.machinezoo.com/adapters) for Java's
 [`Instant`](https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/time/Instant.html)
 and [`Duration`](https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/time/Duration.html) classes.
